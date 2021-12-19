@@ -1,4 +1,4 @@
-# Assignment: Chess Piece Tour
+# Chess Piece Tour
 
 # Problem statement
 
